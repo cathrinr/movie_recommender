@@ -9,5 +9,5 @@ The goal of this project is to create a movie recommender whith different types 
 
 ## Skills learned 📚🎓🧠
 
-- Creating a app with Streamlit
-- Different recommendations systems in Python
+- Creating an app with Streamlit
+- Different recommendation systems in Python
